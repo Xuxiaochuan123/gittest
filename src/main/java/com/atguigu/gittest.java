@@ -8,6 +8,6 @@ public class gittest {
         System.out.println("你好帅");
         System.out.println("你好帅");
         System.out.println("你好帅");
-        System.out.println("hot-fix");
+        System.out.println("hot-fix2");
     }
 }
