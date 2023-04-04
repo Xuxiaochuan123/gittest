@@ -10,5 +10,6 @@ public class gittest {
         System.out.println("你好帅");
         System.out.println("master");
         System.out.println("hot-fix2");
+        System.out.println("改了代码");
     }
 }
